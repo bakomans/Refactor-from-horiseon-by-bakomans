@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* main header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* benefits lead style */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
